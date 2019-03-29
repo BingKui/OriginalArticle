@@ -13,3 +13,4 @@
 ### 2019年
 
 - [1.前端er，Jenkins持续化集成环境搭建！](./2019/2019-03-25.md) [掘金](https://juejin.im/post/5c99e3af6fb9a071012a1f27)
+- [2.前端er，Jenkins持续化集成Webpack项目！](./2019/2019-03-26.md) [掘金](https://juejin.im/post/5c9dc0de6fb9a071105deeb2)
